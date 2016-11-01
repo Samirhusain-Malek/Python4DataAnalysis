@@ -1,7 +1,7 @@
-## Python4DataAnalysis
+# Python4DataAnalysis
 
-#Python Excercise
+##Python Excercise
 
-#Twitter Search Analysis
+##Twitter Search Analysis
 
-#StackExchange Analysis
+##StackExchange Analysis
