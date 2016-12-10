@@ -41,26 +41,31 @@ Select options <1,2,3,4,5>
 
 #### Visualization
 ###Analysis 1: San Francisco Crimes by Category
+
 *Larceny/Theft is the most repeated crime in SF
 
 *
  ![Analysis1](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Analysis1_CrimeCatg.png)
  ###Analysis 2: Crime occurence per hour report
+ 
  *Crime Rate is high during noon to early night
 
  *
  ![Analysis2](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Analysis2_CrimeDay.png)
  ###Analysis 3: Crime occurence per day report
+ 
  *Crime rate is maximum on Friday
 
  *
  ![Analysis3](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Analysis3_CrimeHr.png)
 ###Analysis 4: Crime occurence per month report 
+
 *April, May, September have higher crime rate
 
 *
  ![Analysis4](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Analysis4_CrimeMon.png)
 ###Analysis 5: Crime occurence per year report
+
 *Crime Rate has been increasing over the recent years
 
 *
