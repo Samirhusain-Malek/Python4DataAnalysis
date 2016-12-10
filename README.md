@@ -6,9 +6,7 @@
 
 ##StackExchange Analysis
 
-# Python4DataAnalysis
-
-##San Fransisco Crime Dataset
+##San Francisco Crime Dataset
 
     
 ![****](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/sanfrancisco.png)
@@ -20,7 +18,7 @@
 * Seaborn
 
 ## DataSet
-San Fransisco Crime Dataset from 2003-2015
+San Francisco Crime Dataset from 2003-2015
 
 * https://data.sfgov.org/Public-Safety/SFPD-Incidents-from-1-January-2003/tmnf-yvry
 
@@ -34,20 +32,25 @@ Preview:
 
 ![Dataset](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Data.png)
 
-* Analysis 1: San Francisco Crimes by Category
-* Analysis 2: Crime occurence per hour report
-* Analysis 3: Crime occurence per day report
-* Analysis 4: Crime occurence per month report
-* Analysis 5: Crime occurence per year report
+### Analysis of Crime Rate Vs Time
+
+    -The main motto of this analysis is to find out which crime are taking place at which time and day of the month
+    -This analysis will help in analyzing the situation in detail and allow the government to take definite steps 
+
+    * Analysis 1: San Francisco Crimes by Category
+    * Analysis 2: Crime occurence per hour report
+    * Analysis 3: Crime occurence per day report
+    * Analysis 4: Crime occurence per month report
+    * Analysis 5: Crime occurence per year report
 
 
-##To perform analysis on the dataset :
+### To perform analysis on the dataset :
 
-Run the main.py and give the input according to Graphs
+Run the [**main.py**] and give the input according to Graphs
 
-Select options <1,2,3,4,5>
+### Select options <1,2,3,4,5>
 
-
+[main.py]:https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/main.py
 
 #### Visualization
 ###Analysis 1: San Francisco Crimes by Category
