@@ -56,7 +56,7 @@ Select options <1,2,3,4,5>
  *
  ![Analysis3](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Analysis3_CrimeHr.png)
 ###Analysis 4: Crime occurence per month report 
-*April, May, September have higher crime rate
+*April, May, October have higher crime rate
 
 *
  ![Analysis4](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Analysis4_CrimeMon.png)
