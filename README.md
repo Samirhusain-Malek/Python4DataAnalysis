@@ -13,7 +13,6 @@
 Library Used:
 * Python 3.5
 * Pandas
-* Graphlab
 * Matplotlib
 * Seaborn
 
@@ -31,14 +30,13 @@ Preview:
 * Analysis 5: Crime occurence per year report
 
 
-To perform analysis on the dataset :
+##To perform analysis on the dataset :
 
 Run the main.py and give the input according to Graphs
 
 Select options <1,2,3,4,5>
 
 
-Visualizations:
 
 #### Visualization
 ##Analysis 1: San Francisco Crimes by Category
