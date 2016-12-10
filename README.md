@@ -24,11 +24,11 @@ Preview:
 
 ![Dataset](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Data.png)
 
-Analysis 1: San Francisco Crimes by Category
-Analysis 2: Crime occurence per hour report
-Analysis 3: Crime occurence per day report
-Analysis 4: Crime occurence per month report
-Analysis 5: Crime occurence per year report
+* Analysis 1: San Francisco Crimes by Category
+* Analysis 2: Crime occurence per hour report
+* Analysis 3: Crime occurence per day report
+* Analysis 4: Crime occurence per month report
+* Analysis 5: Crime occurence per year report
 
 
 To perform analysis on the dataset :
