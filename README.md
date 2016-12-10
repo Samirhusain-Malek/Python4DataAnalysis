@@ -10,14 +10,6 @@
 
 ##San Fransisco Crime Dataset
 
-* https://data.sfgov.org/Public-Safety/SFPD-Incidents-from-1-January-2003/tmnf-yvry
-
-## Description
-Here are just a few of the things about data:
-
-  - The Data was a 470 MB Dataset with 1995836 rows.
-  - To split the data, a function has been written to split it in small csv files to be uploaded on GitHub
-  
     
 ![****](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/sanfrancisco.png)
 
@@ -27,9 +19,17 @@ Here are just a few of the things about data:
 * Matplotlib
 * Seaborn
 
-##DataSet
+## DataSet
 San Fransisco Crime Dataset from 2003-2015
 
+* https://data.sfgov.org/Public-Safety/SFPD-Incidents-from-1-January-2003/tmnf-yvry
+
+### Description
+Here are just a few of the things about data:
+
+  - The Data was a 470 MB Dataset with 1995836 rows.
+  - To split the data, a function has been written to split it in small csv files to be uploaded on GitHub
+  
 Preview:
 
 ![Dataset](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Data.png)
