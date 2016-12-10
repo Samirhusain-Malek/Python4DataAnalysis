@@ -10,13 +10,13 @@
 
 ##San Fransisco Crime Dataset
 
-'''Library Used:
+Library Used:
 Python 3.5
 Pandas
 Graphlab
 Matplotlib
 Seaborn
-'''
+
 
 
 Analysis 1: San Francisco Crimes by Category
