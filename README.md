@@ -17,7 +17,12 @@ Graphlab
 Matplotlib
 Seaborn
 
+##DataSet
+San Fransisco Crime Dataset from 2003-2015
 
+Preview:
+
+!Dataset(https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Data.png)
 
 Analysis 1: San Francisco Crimes by Category
 Analysis 2: Crime occurence per hour report
