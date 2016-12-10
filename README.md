@@ -11,11 +11,11 @@
 ##San Fransisco Crime Dataset
 
 Library Used:
-Python 3.5
-Pandas
-Graphlab
-Matplotlib
-Seaborn
+* Python 3.5
+* Pandas
+* Graphlab
+* Matplotlib
+* Seaborn
 
 ##DataSet
 San Fransisco Crime Dataset from 2003-2015
