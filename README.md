@@ -39,8 +39,10 @@ San Francisco Crime Dataset from 2003-2015
 Here are just a few of the things about data:
 
   - The Data was a 470 MB Dataset with 1995836 rows.
-  - To split the data, a function has been written to split it in small csv files to be uploaded on GitHub
-  
+  - To split the data, a function has been written [**data.ipynb**][data.ipnyb] to split it in small csv files to be uploaded on GitHub
+[data.ipnyb]:https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/data/data.ipynb
+
+
 Preview:
 
 ![Dataset](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/Data.png)
@@ -50,11 +52,22 @@ Preview:
    -The main motto of this analysis is to find out which crime are taking place at which time and day of the month
    -This analysis will help in analyzing the situation in detail and allow the government to take definite steps 
 
-   * Analysis 1: San Francisco Crimes by Category
+   * Analysis 1 : San Francisco Crimes by Category
+    [**CrimeCatg.py**][CrimeCatg.py]
    * Analysis 2: Crime occurence per hour report
+    [**CrimeDay.py**][CrimeDay.py]
    * Analysis 3: Crime occurence per day report
+   [**CrimeHr.py**][CrimeDay.py]
    * Analysis 4: Crime occurence per month report
+   [**CrimeMonth.py**][CrimeDay.py]
    * Analysis 5: Crime occurence per year report
+   [**CrimeYear.py**][CrimeDay.py]
+
+[CrimeCatg.py]:https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Analysis1_CrimeCatg/CrimeCatg.py
+[CrimeDay.py]:https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Analysis2_CrimeDay/CrimeDay.py
+[CrimeHr.py]:https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Analysis3_CrimeHr/CrimeHr.py
+[CrimeMon.py]:https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Analysis4_CrimeMon/CrimeMon.py
+[CrimeCatg.py]:https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Analysis5_CrimeYear/CrimeYear.py
 
 
 ### To perform analysis on the dataset :
