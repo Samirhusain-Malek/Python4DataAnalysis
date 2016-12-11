@@ -11,11 +11,23 @@
     
 ![****](https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/Visualization/sanfrancisco.png)
 
-## Library Used:
+## Dependency and Installation from sources
+To install dependencies from source you need to:
+
 * Python 3.5
+
 * Pandas
+```sh
+pip install pandas
+```
 * Matplotlib
+```sh
+pip install Matplotlib
+```
 * Seaborn
+```sh
+pip install Seaborn
+```
 
 ## DataSet
 San Francisco Crime Dataset from 2003-2015
@@ -34,14 +46,14 @@ Preview:
 
 ### Analysis of Crime Rate Vs Time
 
-    -The main motto of this analysis is to find out which crime are taking place at which time and day of the month
-    -This analysis will help in analyzing the situation in detail and allow the government to take definite steps 
+   -The main motto of this analysis is to find out which crime are taking place at which time and day of the month
+   -This analysis will help in analyzing the situation in detail and allow the government to take definite steps 
 
-    * Analysis 1: San Francisco Crimes by Category
-    * Analysis 2: Crime occurence per hour report
-    * Analysis 3: Crime occurence per day report
-    * Analysis 4: Crime occurence per month report
-    * Analysis 5: Crime occurence per year report
+   * Analysis 1: San Francisco Crimes by Category
+   * Analysis 2: Crime occurence per hour report
+   * Analysis 3: Crime occurence per day report
+   * Analysis 4: Crime occurence per month report
+   * Analysis 5: Crime occurence per year report
 
 
 ### To perform analysis on the dataset :
@@ -52,8 +64,9 @@ Run the [**main.py**] and give the input according to Graphs
 
 [main.py]:https://github.com/rohits216/Python4DataAnalysis/blob/master/Python4DataAnalysis/San%20Francisco%20Crimes%20Dataset/main.py
 
-#### Visualization
-###Analysis 1: San Francisco Crimes by Category
+### Visualization
+
+### Analysis 1: San Francisco Crimes by Category
 
 *Larceny/Theft is the most repeated crime in SF
 
