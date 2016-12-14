@@ -1,8 +1,9 @@
 # Python4DataAnalysis
 
-##Python Excercise
-##Twitter Search Analysis
-##StackExchange Analysis
+## Python Excercise
+ 
+## Twitter Search Analysis
+## StackExchange Analysis
 
 ##San Francisco Crime Dataset
 
